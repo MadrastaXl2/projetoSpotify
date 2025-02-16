@@ -1,0 +1,7 @@
+Criar um package.json do zero -> npm init -y
+Instalar o Express (API) -> npm i express
+
+Adicionar o import (padrão) no server.js -> EX: import express from "express"
+* Adicionar em package.json -> "type":"module",
+
+Node permite executar JS fora do navegador -> node ./api/server.js
